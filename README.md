@@ -2,7 +2,7 @@
 
 **AIM:** 
 
-To simulate and synthesis finite state machine using vivado 2023.2
+To simulate and synthesis finite state machine using Vivado 2023.2.
 
 **APPARATUS REQUIRED:** 
 
@@ -113,6 +113,6 @@ endmodule
 
 **RESULT:**
 
-Thus the simulation and synthesis of finite state machine using vivado 2023.2 was successfully executed and verified
+Thus the simulation and synthesis of finite state machine using Vivado 2023.2 was successfully executed and verified
 
 
