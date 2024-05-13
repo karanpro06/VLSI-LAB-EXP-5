@@ -1,16 +1,16 @@
-# SIMULATION AND IMPLEMENTATION OF FINITE STATE MACHINE
+**SIMULATION AND IMPLEMENTATION OF FINITE STATE MACHINE**
 
-**AIM** 
+**AIM:** 
 
 To simulate and synthesis finite state machine using vivado 2023.2
 
-**APPARATUS REQUIRED**
+**APPARATUS REQUIRED:**
 
 vivado 2023.2
 
 
 
-**PROCEDURE**
+**PROCEDURE:**
 
 STEP:1 Start the vivado software, Select and Name the New project.
 
@@ -31,9 +31,9 @@ Logic Diagram :
 ![image](https://github.com/navaneethans/VLSI-LAB-EXP-5/assets/6987778/34ec5d63-2b3b-4511-81ef-99f4572d5869)
 
 
-**VERILOG CODE**
+**VERILOG CODE:**
 
-**finite state machine**
+**FINITE STATE MACHINE:**
 
 
 module FSM_moore(clk, rst, x, z);
@@ -104,12 +104,13 @@ endmodule
 
 
 
-**OUTPUT**
+**OUTPUT:**
 
 ![image](https://github.com/abinayaela/VLSI-LAB-EXP-5/assets/164911294/071890dd-3153-4bf7-8ff9-ba142527c4c2)
 
 
-**RESULT**
+**RESULT:**
+
 Thus the simulation and synthesis of finite state machine using vivado 2023.2 was successfully executed and verified
 
 
